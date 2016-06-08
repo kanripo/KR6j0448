@@ -1,20 +1,19 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:32:43.781059
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 11:11
 #+TITLE: 青色大金剛藥叉辟鬼魔法
 #+PROPERTY: CBETA_ID T21n1221
 #+PROPERTY: ID KR6j0448
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 21, No. 1221
 #+PROPERTY: VOL 21
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6j0448_T_000-0099c>¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6j0448_T_001-0099c> ¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.1221¶
-
- 青色大金剛藥叉辟鬼魔法(亦名辟鬼殊法)¶
+No. 1221¶
+青色大金剛藥叉辟鬼魔法(亦名辟鬼殊法)¶
 ¶
 鮫龍洞阿闍梨位空蜝述¶
 
@@ -160,7 +159,7 @@ No.1221¶
 藥叉執三股刃。此四大藥叉□足爪皆長利¶
 如釰。首各將八萬□□□叉眷屬護持南閻¶
 浮提一切眾生。□此曼荼羅已。日月蝕時。俄¶
-作一小壇莊嚴此曼荼羅。隨力所堪辦備飲¶
+作一小壇莊嚴此曼荼羅。隨力所堪辨備飲¶
 食□□□□□□□待日月復滿之時□□□
 <pb:KR6j0448_T_001-0101b>¶
 □□□□食之者□□□□□若有行□□□¶
